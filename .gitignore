@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+*.egg-info/
+data/*.csv
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.lof
+report/*.lot
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
