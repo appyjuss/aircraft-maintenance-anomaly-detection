@@ -15,3 +15,13 @@ report/*.blg
 report/*.fls
 report/*.fdb_latexmk
 report/*.synctex.gz
+
+# Instructor-provided materials (keep local)
+grading_rubric430.pdf
+
+# Presentation artifacts (kept local, not published)
+report/*.pptx
+report/create_presentation.py
+report/create_final_presentation.py
+report/speaker_script.txt
+report/final_speaker_script.txt
